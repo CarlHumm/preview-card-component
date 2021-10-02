@@ -13,7 +13,7 @@
     --ff-title: 'Lexend Deca', sans-serif;
     --fs-base: 0.9375rem;
     --fs-title: clamp(1.6rem, 5vw, 2.1rem);
-    --fs-stats-title: 1.4rem;
+    --fs-stats-title: 1.5rem;
     --fc-base: hsla(0, 0%, 100%, 0.75);
     --fc-stats:  hsla(0, 0%, 100%, 0.6);
     --fc-title: hsl(0, 0%, 100%);
@@ -183,7 +183,7 @@ p {
                 margin-bottom:1.5rem;
                 span {
                     display:block;
-                    font-family:var(--ff-base);
+                    font-family:var(--ff-title);
                     font-size:var(--fs-stats-title);
                     color: var(--fc-title);
                     line-height:1.8;
