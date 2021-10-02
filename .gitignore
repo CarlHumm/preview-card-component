@@ -15,8 +15,5 @@
 .DS_Store
 .prettierignore
 /node_modules/
-README.md
-design
-README-*
 
-.map
+*.map
