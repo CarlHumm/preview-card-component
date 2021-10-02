@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -28,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-component-htmlcss-bp2fI_g6w]
 - Live Site URL: [https://carlhumm.github.io/preview-card-component/]
 
 
